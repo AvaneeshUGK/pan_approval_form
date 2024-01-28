@@ -1,0 +1,1 @@
+sap.ui.define(["sap/m/MessageToast"],function(e){"use strict";return{approve:function(s){e.show("PAN Form Approved")}}});
